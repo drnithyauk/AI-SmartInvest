@@ -47,7 +47,7 @@ ALPACA_ENDPOINT = "https://paper-api.alpaca.markets"
 ## 📦 Setup Instructions
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/stock-trading-agent.git
+git clone https://github.com/drnithyauk/stock-trading-agent.git
 cd stock-trading-agent
 pip install -r requirements.txt
 streamlit run stock_trading_agent.py
